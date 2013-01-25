@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetBestOffers.php,v 1.99 2012-09-10 10:28:16 michaelcoslar Exp $
+ * @version $Id: sample_GetBestOffers.php,v 1.100 2012-09-10 10:32:03 michaelcoslar Exp $
  * @access public 
  */
 class sample_GetBestOffers extends EbatNs_Environment
