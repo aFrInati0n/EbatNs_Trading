@@ -17,8 +17,8 @@
 // Initial, PHP5
 //
 // 
-// auto-generated 09.05.2012 13:04 
-// Ebay-Schema Version 761
+// auto-generated 09.05.2012 13:08 
+// Ebay-Schema Version 763
 //
 /**
  * Load files we depend on.
@@ -30,7 +30,7 @@ require_once 'EbatNs_Session.php';
 /**
  * The WSDL version the SDK is built against.
  */
-define('EBAY_WSDL_VERSION', '761');
+define('EBAY_WSDL_VERSION', '763');
 
 /**
  * This class is the basic interface to the eBay-Webserice for the user.
