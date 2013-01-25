@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_AddToWatchList.php,v 1.76 2011-07-22 07:07:56 michael Exp $
+ * @version $Id: sample_AddToWatchList.php,v 1.77 2011-07-22 07:11:42 michael Exp $
  * @access public 
  */
 class sample_AddToWatchList extends EbatNs_Environment
