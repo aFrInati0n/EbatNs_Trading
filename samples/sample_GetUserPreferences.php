@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetUserPreferences.php,v 1.89 2011-12-29 13:56:30 michaelcoslar Exp $
+ * @version $Id: sample_GetUserPreferences.php,v 1.90 2011-12-29 14:03:01 michaelcoslar Exp $
  * @access public
  */
 class sample_GetUserPreferences extends EbatNs_Environment
