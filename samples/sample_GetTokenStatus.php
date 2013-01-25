@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetTokenStatus.php,v 1.79 2011-07-22 07:22:45 michael Exp $
+ * @version $Id: sample_GetTokenStatus.php,v 1.80 2011-07-22 07:25:57 michael Exp $
  * @access public
  */
 class sample_GetTokenStatus extends EbatNs_Environment
