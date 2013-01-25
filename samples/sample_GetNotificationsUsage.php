@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetNotificationsUsage.php,v 1.66 2010-11-15 07:35:33 michael Exp $
+ * @version $Id: sample_GetNotificationsUsage.php,v 1.67 2010-11-15 07:37:31 michael Exp $
  * @access public 
  */
 class sample_GetNotificationsUsage extends EbatNs_Environment
