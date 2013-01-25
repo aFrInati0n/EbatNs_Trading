@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetShippingDiscountProfiles.php,v 1.100 2012-09-10 10:32:04 michaelcoslar Exp $
+ * @version $Id: sample_GetShippingDiscountProfiles.php,v 1.101 2012-09-10 10:36:25 michaelcoslar Exp $
  * @access public
  */
 class sample_GetShippingDiscountProfiles extends EbatNs_Environment
