@@ -16,7 +16,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_UploadSiteHostedPictures.php,v 1.70 2011-02-24 10:37:18 michael Exp $
+ * @version $Id: sample_UploadSiteHostedPictures.php,v 1.71 2011-03-18 11:46:03 michael Exp $
  * @access public
  */
 class sample_UploadSiteHostedPictures extends EbatNs_Environment
