@@ -16,7 +16,7 @@ require_once 'EbatNs_OutputSelectorModel.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetItem_FeedExtension.php,v 1.68 2010-11-15 07:40:05 michael Exp $
+ * @version $Id: sample_GetItem_FeedExtension.php,v 1.69 2011-02-24 10:34:47 michael Exp $
  * @access public 
  */
 class sample_GetItem extends EbatNs_Environment
