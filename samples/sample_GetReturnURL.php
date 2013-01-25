@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetReturnURL.php,v 1.90 2011-12-29 14:03:01 michaelcoslar Exp $
+ * @version $Id: sample_GetReturnURL.php,v 1.91 2012-05-09 10:50:34 michaelcoslar Exp $
  * @access public
  */
 class sample_GetReturnURL extends EbatNs_Environment
