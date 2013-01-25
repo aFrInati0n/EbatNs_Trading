@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetAttributesXSL.php,v 1.95 2012-05-09 11:10:08 michaelcoslar Exp $
+ * @version $Id: sample_GetAttributesXSL.php,v 1.96 2012-05-09 11:13:21 michaelcoslar Exp $
  * @access public 
  */
 class sample_GetAttributesXSL extends EbatNs_Environment
