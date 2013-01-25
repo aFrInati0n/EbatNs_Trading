@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetSessionID.php,v 1.86 2011-12-29 13:41:23 michaelcoslar Exp $
+ * @version $Id: sample_GetSessionID.php,v 1.87 2011-12-29 13:44:08 michaelcoslar Exp $
  * @access public
  */
 class sample_GetSessionID extends EbatNs_Environment
