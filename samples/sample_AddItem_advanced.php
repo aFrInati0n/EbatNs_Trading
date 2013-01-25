@@ -16,7 +16,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_AddItem_advanced.php,v 1.102 2012-09-10 10:39:43 michaelcoslar Exp $
+ * @version $Id: sample_AddItem_advanced.php,v 1.103 2012-09-10 10:42:51 michaelcoslar Exp $
  * @access public 
  */
 class sample_AddItem extends EbatNs_Environment
