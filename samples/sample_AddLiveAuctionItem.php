@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_AddLiveAuctionItem.php,v 1.73 2011-07-22 06:51:40 michael Exp $
+ * @version $Id: sample_AddLiveAuctionItem.php,v 1.74 2011-07-22 06:55:17 michael Exp $
  * @access public 
  */
 class sample_AddLiveAuctionItem extends EbatNs_Environment

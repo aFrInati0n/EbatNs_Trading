@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_VerifyAddItem.php,v 1.73 2011-07-22 06:51:42 michael Exp $
+ * @version $Id: sample_VerifyAddItem.php,v 1.74 2011-07-22 06:55:19 michael Exp $
  * @access public
  */
 class sample_VerifyAddItem extends EbatNs_Environment

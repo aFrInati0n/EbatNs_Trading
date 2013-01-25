@@ -17,8 +17,8 @@
 // Initial, PHP5
 //
 // 
-// auto-generated 22.07.2011 08:50 
-// Ebay-Schema Version 713
+// auto-generated 22.07.2011 08:53 
+// Ebay-Schema Version 715
 //
 /**
  * Load files we depend on.
@@ -30,7 +30,7 @@ require_once 'EbatNs_Session.php';
 /**
  * The WSDL version the SDK is built against.
  */
-define('EBAY_WSDL_VERSION', '713');
+define('EBAY_WSDL_VERSION', '715');
 
 /**
  * This class is the basic interface to the eBay-Webserice for the user.
@@ -469,15 +469,6 @@ class EbatNs_ServiceProxy extends EbatNs_Client
 		return $this->call('GetCategoryFeatures', $request);
 	}
 	/**
-	 * @return GetCategoryListingsResponseType
-	 * @param GetCategoryListingsRequestType $request 
-	 */
-	function GetCategoryListings($request)
-	{
-		$request->setVersion(EBAY_WSDL_VERSION);
-		return $this->call('GetCategoryListings', $request);
-	}
-	/**
 	 * @return GetCategoryMappingsResponseType
 	 * @param GetCategoryMappingsRequestType $request 
 	 */
@@ -818,15 +809,6 @@ class EbatNs_ServiceProxy extends EbatNs_Client
 	{
 		$request->setVersion(EBAY_WSDL_VERSION);
 		return $this->call('GetPromotionalSaleDetails', $request);
-	}
-	/**
-	 * @return GetSearchResultsResponseType
-	 * @param GetSearchResultsRequestType $request 
-	 */
-	function GetSearchResults($request)
-	{
-		$request->setVersion(EBAY_WSDL_VERSION);
-		return $this->call('GetSearchResults', $request);
 	}
 	/**
 	 * @return GetSellerDashboardResponseType
