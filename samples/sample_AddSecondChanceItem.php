@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_AddSecondChanceItem.php,v 1.103 2012-09-10 10:42:51 michaelcoslar Exp $
+ * @version $Id: sample_AddSecondChanceItem.php,v 1.104 2012-09-10 10:46:35 michaelcoslar Exp $
  * @access public 
  */
 class sample_AddSecondChanceItem extends EbatNs_Environment
