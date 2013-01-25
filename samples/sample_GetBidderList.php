@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetBidderList.php,v 1.71 2011-03-18 11:45:59 michael Exp $
+ * @version $Id: sample_GetBidderList.php,v 1.72 2011-03-18 11:51:36 michael Exp $
  * @access public 
  */
 class sample_GetBidderList extends EbatNs_Environment
