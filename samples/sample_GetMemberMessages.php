@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetMemberMessages.php,v 1.77 2011-07-22 07:11:43 michael Exp $
+ * @version $Id: sample_GetMemberMessages.php,v 1.78 2011-07-22 07:19:26 michael Exp $
  * @access public 
  */
 class sample_GetMemberMessages extends EbatNs_Environment
