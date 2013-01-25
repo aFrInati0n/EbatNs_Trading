@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetProductFinder.php,v 1.85 2011-12-29 13:21:11 michaelcoslar Exp $
+ * @version $Id: sample_GetProductFinder.php,v 1.86 2011-12-29 13:41:22 michaelcoslar Exp $
  * @access public 
  */
 class sample_GetProductFinder extends EbatNs_Environment
