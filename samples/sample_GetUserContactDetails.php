@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetUserContactDetails.php,v 1.64 2010-11-15 07:30:31 michael Exp $
+ * @version $Id: sample_GetUserContactDetails.php,v 1.65 2010-11-15 07:33:16 michael Exp $
  * @access public
  */
 class sample_GetUserContactDetails extends EbatNs_Environment

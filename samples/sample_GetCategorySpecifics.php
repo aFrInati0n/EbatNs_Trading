@@ -15,7 +15,7 @@ require_once 'EbatNs_Environment.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetCategorySpecifics.php,v 1.64 2010-11-15 07:30:30 michael Exp $
+ * @version $Id: sample_GetCategorySpecifics.php,v 1.65 2010-11-15 07:33:15 michael Exp $
  * @access public 
  */
 class sample_GetCategorySpecifics extends EbatNs_Environment

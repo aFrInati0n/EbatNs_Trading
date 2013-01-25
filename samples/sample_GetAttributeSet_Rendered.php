@@ -16,7 +16,7 @@ require_once 'phpCSRenderer/CsRendererPEAR.php';
  * @subpackage samples_trading
  * @author johann 
  * @copyright Copyright (c) 2008
- * @version $Id: sample_GetAttributeSet_Rendered.php,v 1.64 2010-11-15 07:30:30 michael Exp $
+ * @version $Id: sample_GetAttributeSet_Rendered.php,v 1.65 2010-11-15 07:33:14 michael Exp $
  * @access public 
  */
 class sample_GetAttributeSet extends EbatNs_Environment
